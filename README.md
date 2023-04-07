@@ -1,2 +1,2 @@
 # eolymp
-this repo contains my solutions for eolymp questions
+This repo contains my solutions for eolymp questions
